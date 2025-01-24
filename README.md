@@ -1,1 +1,1 @@
-# Quant_Finance-Foundations
+I'm currently a 3rd year CS student. This repository is a collection of projects on foundational topics in quantitative finance. It covers key concepts such as stochastic calculus, time series analysis, and applications of the Black-Scholes model. The goal is to build a good foundation for exploring advanced topics in financial engineering and algorithmic trading.
